@@ -7,4 +7,4 @@ console.log(a);
 var a;
 a= 11;
 console.log(a);
-// code Runner
+// code Runner 사용 undefined 10 10 11
